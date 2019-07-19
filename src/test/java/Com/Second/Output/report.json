@@ -1,0 +1,153 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "line": 12,
+        "name": "Title of your scenario outline",
+        "description": "",
+        "id": "title-of-your-feature;title-of-your-scenario-outline;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 1160663,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User enters outline \"abcd123@gmail\" in the email field",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"abcd123@gmail\"",
+                  "offset": 20
+                }
+              ],
+              "location": "Stepoutline.enter_in_the_email_feild(String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 141795,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "Enter outline 123 in the password feild",
+            "match": {
+              "arguments": [
+                {
+                  "val": "123",
+                  "offset": 14
+                }
+              ],
+              "location": "Stepoutline.enter_in_the_password_feild(Integer)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 54857,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "Click on login",
+            "match": {
+              "location": "Stepoutline.click_on_login()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 60311,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "The home page is visible",
+            "match": {
+              "location": "Stepoutline.the_home_page_is_visible()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 13,
+        "name": "Title of your scenario outline",
+        "description": "",
+        "id": "title-of-your-feature;title-of-your-scenario-outline;;3",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 133775,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User enters outline \"efgh456@gmail\" in the email field",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"efgh456@gmail\"",
+                  "offset": 20
+                }
+              ],
+              "location": "Stepoutline.enter_in_the_email_feild(String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 122547,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "Enter outline 456 in the password feild",
+            "match": {
+              "arguments": [
+                {
+                  "val": "456",
+                  "offset": 14
+                }
+              ],
+              "location": "Stepoutline.enter_in_the_password_feild(Integer)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 43629,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "Click on login",
+            "match": {
+              "location": "Stepoutline.click_on_login()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 41704,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "The home page is visible",
+            "match": {
+              "location": "Stepoutline.the_home_page_is_visible()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Title of your feature",
+    "description": "",
+    "id": "title-of-your-feature",
+    "keyword": "Feature",
+    "uri": "file:src/test/java/Com/Second/WithExample.feature",
+    "tags": []
+  }
+]

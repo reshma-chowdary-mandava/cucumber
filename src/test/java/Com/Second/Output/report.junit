@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="2" time="0.005428">
+<testcase classname="Title of your feature" name="Title of your scenario outline" time="0.004821">
+<system-out><![CDATA[Given User enters outline "abcd123@gmail" in the email field................passed
+And Enter outline 123 in the password feild.................................passed
+When Click on login.........................................................passed
+Then The home page is visible...............................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Title of your feature" name="Title of your scenario outline 2" time="0.000607">
+<system-out><![CDATA[Given User enters outline "efgh456@gmail" in the email field................passed
+And Enter outline 456 in the password feild.................................passed
+When Click on login.........................................................passed
+Then The home page is visible...............................................passed
+]]></system-out>
+</testcase>
+</testsuite>
